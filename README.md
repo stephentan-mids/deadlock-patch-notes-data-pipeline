@@ -1,0 +1,2 @@
+# deadlock-patch-notes-data-pipeline
+ This project is designed to pull patch notes from the video game Deadlock by Valve, parse the data, and store it in a structured format for further analysis. The pipeline automates the process of regularly retrieving patch updates, cleaning the raw data, and formatting it for easy access and use in various downstream tasks, such as data analysis, visualizations, and machine learning.
