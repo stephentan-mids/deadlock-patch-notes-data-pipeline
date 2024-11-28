@@ -1,10 +1,10 @@
 Project Objectives: Deadlock is a team-based video game made by Valve. The objective of this project is to create a data pipeline that extracts patch note data and store it in the cloud.
 
-This project is broken down into 4 main phases.
+This project is broken down into 3 main phases.
 Phase 1 (jupyter notebook): For each patch note, store the raw data into a single .txt file 
-Phase 2 (jupyter notebook): Process the patch note text into a structured .json format
-Phase 3 (vscode): Store the data in Google Cloud Storage (GCS)
-Phase 4 (vscode): Set up automation for previous 3 phases.
+	[EDIT 27nov2024] instead of a .txt file, put each patch note into it's own .json file
+Phase 2 (vscode): Store the data in Google Cloud Storage (GCS)
+Phase 3 (vscode): Set up automation for previous 3 phases.
 
 Possible Downstream Analyses
 1. Patch note sumamrizer for which selectable characters received the biggest positive changes -- "buffs" -- and negative changes -- "nerfs"
