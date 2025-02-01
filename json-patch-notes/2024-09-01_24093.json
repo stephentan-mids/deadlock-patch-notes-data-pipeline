@@ -1,6 +1,17 @@
 {
     "poster": "Yoshi",
-    "date": "Sep 1, 2024",
+    "date": "2024-09-01",
     "time": "1:40 PM",
-    "content": "- Infernus: Flame Dash now has 30% Slow Resistance\n\n- Ivy: Air Drop self cast time reduced from 2 to 1.3\n\n- Seven: Storm Cloud: Spirit Power DPS scaling reduced from 0.8 to 0.7\n\n- Viscous: Puddle Punch base cast range from 60m to 40m\n\n- Viscous: Puddle Punch T2 damage from +50 to +35\n\n- Viscous: Puddle Punch base cooldown increased from 24 to 28\n\n- Viscous: Puddle Punch now knocks people less high into the air\n\n- Viscous: Base clip reduced from 24 to 20, Alt Fire now requires 5 bullets\n\n- Rope climb speed increased from 11 to 13\n\n- Rope activation range increased from 2.2m to 2.4m\n\n- Fixed an HTML parsing exploit with builds"
+    "content": "- Infernus: Flame Dash now has 30% Slow Resistance\n- Ivy: Air Drop self cast time reduced from 2 to 1.3\n- Seven: Storm Cloud: Spirit Power DPS scaling reduced from 0.8 to 0.7\n- Viscous: Puddle Punch base cast range from 60m to 40m\n- Viscous: Puddle Punch T2 damage from +50 to +35\n- Viscous: Puddle Punch base cooldown increased from 24 to 28\n- Viscous: Puddle Punch now knocks people less high into the air\n- Viscous: Base clip reduced from 24 to 20, Alt Fire now requires 5 bullets\n- Rope climb speed increased from 11 to 13\n- Rope activation range increased from 2.2m to 2.4m\n- Fixed an HTML parsing exploit with builds",
+    "hero_patch_notes": [
+        "- Infernus: Flame Dash now has 30% Slow Resistance",
+        "- Ivy: Air Drop self cast time reduced from 2 to 1.3",
+        "- Seven: Storm Cloud: Spirit Power DPS scaling reduced from 0.8 to 0.7",
+        "- Viscous: Puddle Punch base cast range from 60m to 40m",
+        "- Viscous: Puddle Punch T2 damage from +50 to +35",
+        "- Viscous: Puddle Punch base cooldown increased from 24 to 28",
+        "- Viscous: Puddle Punch now knocks people less high into the air",
+        "- Viscous: Base clip reduced from 24 to 20, Alt Fire now requires 5 bullets"
+    ],
+    "flagged_entries": []
 }

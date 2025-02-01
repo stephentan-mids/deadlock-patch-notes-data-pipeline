@@ -1,6 +1,16 @@
 {
     "poster": "Yoshi",
-    "date": "Sep 14, 2024",
+    "date": "2024-09-14",
     "time": "9:05 PM",
-    "content": "- Bebop: Hyper Beam cooldown increased from 117 to 130\n\n- Bebop: Hyper Beam T1 reduced from -38s to -30s\n\n- Bebop: Hyper Beam end radius reduced from 5m to 4m\n\n- Bebop: Hyper Beam slow reduced from 40% to 30%\n\n- Bebop: Hyper Beam DPS reduced from 220 to 205\n\n- Bebop: Hyper Beam DPS spirit scaling reduced from 3 to 2.7\n\n- McGinnis: Medicinal Specter radius spirit power reduced from 0.07 to 0.05\n\n- Ammo Scavenger: Buff duration reduced from 40s to 35s"
+    "content": "- Bebop: Hyper Beam cooldown increased from 117 to 130\n- Bebop: Hyper Beam T1 reduced from -38s to -30s\n- Bebop: Hyper Beam end radius reduced from 5m to 4m\n- Bebop: Hyper Beam slow reduced from 40% to 30%\n- Bebop: Hyper Beam DPS reduced from 220 to 205\n- Bebop: Hyper Beam DPS spirit scaling reduced from 3 to 2.7\n- McGinnis: Medicinal Specter radius spirit power reduced from 0.07 to 0.05\n- Ammo Scavenger: Buff duration reduced from 40s to 35s",
+    "hero_patch_notes": [
+        "- Bebop: Hyper Beam cooldown increased from 117 to 130",
+        "- Bebop: Hyper Beam T1 reduced from -38s to -30s",
+        "- Bebop: Hyper Beam end radius reduced from 5m to 4m",
+        "- Bebop: Hyper Beam slow reduced from 40% to 30%",
+        "- Bebop: Hyper Beam DPS reduced from 220 to 205",
+        "- Bebop: Hyper Beam DPS spirit scaling reduced from 3 to 2.7",
+        "- McGinnis: Medicinal Specter radius spirit power reduced from 0.07 to 0.05"
+    ],
+    "flagged_entries": []
 }

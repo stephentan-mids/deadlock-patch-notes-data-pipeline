@@ -1,6 +1,21 @@
 {
     "poster": "Yoshi",
-    "date": "Oct 2, 2024",
+    "date": "2024-10-02",
     "time": "5:18 PM",
-    "content": "- Respawn time at 20min reduced from 50s to 45s (was 40s previous patch)\n\n- Zipline Boost cooldown reduced from 340s (5.6min) to 280s (4.6min)\n\n- Ivy: Kudzu Bomb damage spirit scaling reduced from 0.7 to 0.6\n\n- Ivy: Kudzu Bomb T3 damage reduced from +60 to +50\n\n- Ivy: Kudzu Bomb vertical radius is now a fixed 2m pancake shape instead of the full radius of the ability\n\n- Ivy: Air Drop explosion now respects line of sight\n\n- Mirage: Bullet radius reduced from 8 to 6\n\n- Mirage: Tornado time for victims to reach max height reduced from 0.3s to 0.2s\n\n- Mirage: Tornado lift duration reduced from 1.2s to 1.1s\n\n- Mirage: Fixed Tornado being castable while busy (such as while channeling Traveler)\n\n- Mirage: Djinn's Mark T1 now only applies the slow when the multiplier is 2x or higher \n\n- Mirage: Djinn's Mark damage is now treated as a DoT in terms of zipline rules (doesn't prevent ziplining or knock you off)\n\n- Mirage: Fixed Djinn's Mark applying bullet procs with Return Fire\n\n- Pocket: Fixed Mystic Reverb causing Affliction damage be lethal\n\n- Fixed certain player name lengths not being reportable"
+    "content": "- Respawn time at 20min reduced from 50s to 45s (was 40s previous patch)\n- Zipline Boost cooldown reduced from 340s (5.6min) to 280s (4.6min)\n- Ivy: Kudzu Bomb damage spirit scaling reduced from 0.7 to 0.6\n- Ivy: Kudzu Bomb T3 damage reduced from +60 to +50\n- Ivy: Kudzu Bomb vertical radius is now a fixed 2m pancake shape instead of the full radius of the ability\n- Ivy: Air Drop explosion now respects line of sight\n- Mirage: Bullet radius reduced from 8 to 6\n- Mirage: Tornado time for victims to reach max height reduced from 0.3s to 0.2s\n- Mirage: Tornado lift duration reduced from 1.2s to 1.1s\n- Mirage: Fixed Tornado being castable while busy (such as while channeling Traveler)\n- Mirage: Djinn's Mark T1 now only applies the slow when the multiplier is 2x or higher\n- Mirage: Djinn's Mark damage is now treated as a DoT in terms of zipline rules (doesn't prevent ziplining or knock you off)\n- Mirage: Fixed Djinn's Mark applying bullet procs with Return Fire\n- Pocket: Fixed Mystic Reverb causing Affliction damage be lethal\n- Fixed certain player name lengths not being reportable",
+    "hero_patch_notes": [
+        "- Ivy: Kudzu Bomb damage spirit scaling reduced from 0.7 to 0.6",
+        "- Ivy: Kudzu Bomb T3 damage reduced from +60 to +50",
+        "- Ivy: Kudzu Bomb vertical radius is now a fixed 2m pancake shape instead of the full radius of the ability",
+        "- Ivy: Air Drop explosion now respects line of sight",
+        "- Mirage: Bullet radius reduced from 8 to 6",
+        "- Mirage: Tornado time for victims to reach max height reduced from 0.3s to 0.2s",
+        "- Mirage: Tornado lift duration reduced from 1.2s to 1.1s",
+        "- Mirage: Fixed Tornado being castable while busy (such as while channeling Traveler)",
+        "- Mirage: Djinn's Mark T1 now only applies the slow when the multiplier is 2x or higher",
+        "- Mirage: Djinn's Mark damage is now treated as a DoT in terms of zipline rules (doesn't prevent ziplining or knock you off)",
+        "- Mirage: Fixed Djinn's Mark applying bullet procs with Return Fire",
+        "- Pocket: Fixed Mystic Reverb causing Affliction damage be lethal"
+    ],
+    "flagged_entries": []
 }

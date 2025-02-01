@@ -1,6 +1,14 @@
 {
     "poster": "Yoshi",
-    "date": "Sep 29, 2024",
+    "date": "2024-09-29",
     "time": "12:38 PM",
-    "content": "- Outer ziplines hero speed increased by 20% relative to inner lanes (same as troopers on outer lanes zipline being faster)\n\n- Initial respawn reduced from 12s to 8s\n\n- Urn now drops when teleporting with Mirage's Traveler\n\n- Fixed Wraith Cards, Shiv Rage and lifesteal from increasing by shooting the shop"
+    "content": "- Outer ziplines hero speed increased by 20% relative to inner lanes (same as troopers on outer lanes zipline being faster)\n- Initial respawn reduced from 12s to 8s\n- Urn now drops when teleporting with Mirage's Traveler\n- Fixed Wraith Cards, Shiv Rage and lifesteal from increasing by shooting the shop",
+    "hero_patch_notes": [
+        "- Urn now drops when teleporting with Mirage's Traveler",
+        "- Fixed Wraith Cards, Shiv Rage and lifesteal from increasing by shooting the shop"
+    ],
+    "flagged_entries": [
+        "- Urn now drops when teleporting with Mirage's Traveler",
+        "- Fixed Wraith Cards, Shiv Rage and lifesteal from increasing by shooting the shop"
+    ]
 }

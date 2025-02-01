@@ -1,0 +1,11 @@
+{
+    "poster": "Yoshi",
+    "date": "2025-01-12",
+    "time": "6:51 PM",
+    "content": "- Alchemical Fire: Effectiveness reduction (40%) vs buildings/midboss now affects the Weapon Damage bonus too (instead of just DPS)\n- Berserker: Weapon Damage per Stack reduced from 6% to 5%\n- Berserker: Bullet Resistance reduced from 9% to 8%\n- Frenzy: Weapon Damage per Stack reduced from 8% to 7%\n- Frenzy: Bullet Resistance reduced from 10% to 8%\n- Frenzy: Fire Rate reduced from 40% to 35%\n- Frenzy: Low Health Bullet Resistance reduced from 55% to 50%\n- Restorative Shot: Cooldown increased from 7s to 9s\n- Unstoppable state no longer blocks anti-heal effects\n- Yamato: Bullet damage growth reduced from 0.33 to 0.27\n- Yamato: Shadow Transformation T1 reduced from +20% Fire Rate to +15%",
+    "hero_patch_notes": [
+        "- Yamato: Bullet damage growth reduced from 0.33 to 0.27",
+        "- Yamato: Shadow Transformation T1 reduced from +20% Fire Rate to +15%"
+    ],
+    "flagged_entries": []
+}

@@ -1,6 +1,12 @@
 {
     "poster": "Yoshi",
-    "date": "Oct 15, 2024",
+    "date": "2024-10-15",
     "time": "5:07 PM",
-    "content": "- Urn now reveals you after 20s from initial pickup\n\n- Urn sprint changed from +3/5 for winning/losing team to +2/6\n\n- First flex slot is now granted after 3 Guardians die instead of 4\n\n- Base kill bounty reduced from 225 to 150 (still scales to 1400 over time)\n\n- Respawn time at 20 minutes reduced from 45s to 40s\n\n- T3 Golden Statues spawn time moved from 25 min to 30 min\n\n- Range to attack lane Guardians increased from 19m to 20m\n\n- Seven: Lightning Ball T3 reduced from +2m Radius to +1m\n\n- Shiv: Rage decay rate increased from 0.25 to 0.3\n\n- Shiv: Rage buffer duration reduced from 12s to 10s"
+    "content": "- Urn now reveals you after 20s from initial pickup\n- Urn sprint changed from +3/5 for winning/losing team to +2/6\n- First flex slot is now granted after 3 Guardians die instead of 4\n- Base kill bounty reduced from 225 to 150 (still scales to 1400 over time)\n- Respawn time at 20 minutes reduced from 45s to 40s\n- T3 Golden Statues spawn time moved from 25 min to 30 min\n- Range to attack lane Guardians increased from 19m to 20m\n- Seven: Lightning Ball T3 reduced from +2m Radius to +1m\n- Shiv: Rage decay rate increased from 0.25 to 0.3\n- Shiv: Rage buffer duration reduced from 12s to 10s",
+    "hero_patch_notes": [
+        "- Seven: Lightning Ball T3 reduced from +2m Radius to +1m",
+        "- Shiv: Rage decay rate increased from 0.25 to 0.3",
+        "- Shiv: Rage buffer duration reduced from 12s to 10s"
+    ],
+    "flagged_entries": []
 }

@@ -1,6 +1,13 @@
 {
     "poster": "Yoshi",
-    "date": "Nov 10, 2024",
+    "date": "2024-11-10",
     "time": "8:19 AM",
-    "content": "- Soul Sharing ratios post-lane reduced from 100/100/66/50/40/33% to 100/75/50/35/28/22% (for 1/2/3/4/5/6 players)\n\n\n\n- Yamato: Shadow Transformation Bullet and Spirit Resist reduced from 60% to 50%\n\n- Yamato: Shadow Transformation Heal reduced from 30% to 25%\n\n- Yamato: Shadow Transformation duration reduced from 6s to 5.5s\n\n- Paradox: Paradoxical Swap time increased by 0.1s (to help with camera)"
+    "content": "- Soul Sharing ratios post-lane reduced from 100/100/66/50/40/33% to 100/75/50/35/28/22% (for 1/2/3/4/5/6 players)\n- Yamato: Shadow Transformation Bullet and Spirit Resist reduced from 60% to 50%\n- Yamato: Shadow Transformation Heal reduced from 30% to 25%\n- Yamato: Shadow Transformation duration reduced from 6s to 5.5s\n- Paradox: Paradoxical Swap time increased by 0.1s (to help with camera)",
+    "hero_patch_notes": [
+        "- Yamato: Shadow Transformation Bullet and Spirit Resist reduced from 60% to 50%",
+        "- Yamato: Shadow Transformation Heal reduced from 30% to 25%",
+        "- Yamato: Shadow Transformation duration reduced from 6s to 5.5s",
+        "- Paradox: Paradoxical Swap time increased by 0.1s (to help with camera)"
+    ],
+    "flagged_entries": []
 }

@@ -1,6 +1,8 @@
 {
     "poster": "Yoshi",
-    "date": "Oct 18, 2024",
+    "date": "2024-10-18",
     "time": "4:30 PM",
-    "content": "- Ranked now has weekend specific hours (starts 5 hours earlier)\n\n- Fixed some regions (South America, Oceania, Asia) that were off by 1-2 hours from their intended times"
+    "content": "- Ranked now has weekend specific hours (starts 5 hours earlier)\n- Fixed some regions (South America, Oceania, Asia) that were off by 1-2 hours from their intended times",
+    "hero_patch_notes": [],
+    "flagged_entries": []
 }

@@ -1,6 +1,10 @@
 {
     "poster": "Yoshi",
-    "date": "Jun 23, 2024",
+    "date": "2024-06-23",
     "time": "4:23 PM",
-    "content": "- Spirit Strike: Melee damage reduced from 20% to 15%\n\n- Melee Charge: No longer grants +15% Melee Damage\n\n- Veil Walker: Bullet Shield reduced from +200 to +150\n\n- Veil Walker: Shield restore now takes 5s to fully regen\n\n- Veil Walker: Cooldown increased from 20s to 25s\n\n- Yamato: Shadow Transformation now causes you to be unable to die during the buff\n\n- There is no longer a reinforcement trooper wave after Guardians and Walkers die"
+    "content": "- Spirit Strike: Melee damage reduced from 20% to 15%\n- Melee Charge: No longer grants +15% Melee Damage\n- Veil Walker: Bullet Shield reduced from +200 to +150\n- Veil Walker: Shield restore now takes 5s to fully regen\n- Veil Walker: Cooldown increased from 20s to 25s\n- Yamato: Shadow Transformation now causes you to be unable to die during the buff\n- There is no longer a reinforcement trooper wave after Guardians and Walkers die",
+    "hero_patch_notes": [
+        "- Yamato: Shadow Transformation now causes you to be unable to die during the buff"
+    ],
+    "flagged_entries": []
 }
