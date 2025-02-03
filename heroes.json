@@ -1,0 +1,185 @@
+{
+  "Heroes": {
+    "Dynamo": {
+      "Weapon": {
+        "DPS": 46,
+        "Bullet Damage": 11.7,
+        "Ammo": 18,
+        "Bullets per sec": 4,
+        "Light Melee": 63,
+        "Heavy Melee": 116
+      },
+      "Vitality": {
+        "Max Health": 650,
+        "Health Regen": 2,
+        "Bullet Resist": 0,
+        "Spirit Resist": 0,
+        "Move Speed": 6.8,
+        "Sprint Speed": 0.5,
+        "Stamina": 3
+      },
+      "Abilities": [
+        {
+          "name": "Kinetic Pulse",
+          "description": "Description of Ability 1",
+          "Cooldown": 26,
+          "Range": 15,
+          "Charges": 1,
+          "base_stats": {
+            "Damage": 70,
+            "Stomp Range": 15,
+            "Ability Width": 5
+          },
+          "tiers": {
+            "T1": "Hit enemies are fire rate and movement slowed by 35% for 4s",
+            "T2": "Dynamo deals 30% more Weapon Damage to hit enemies for 8s",
+            "T3": "+125 Damage and +1 Charge"
+          }
+        },
+        {
+          "name": "Quantum Entanglement",
+          "description": "Description of Ability 2",
+          "Cooldown": 16,
+          "Range": 9,
+          "Charges": -1,
+          "base_stats": {
+            "Void Time": 1.4,
+            "Ally Distance": 10,
+            "Fire Rate Bonus": 25
+          },
+          "tiers": {
+            "T1": "+4m Cast Range",
+            "T2": "+25% Fire Rate Bonus",
+            "T3": "-5s Ability Cooldown and +120% Base Ammo when reappearing"
+          }
+        },
+        {
+          "name": "Rejuvenating Aurora",
+          "description": "Description of Ability 3",
+          "Cooldown": 48,
+          "Range": 8,
+          "Charges": -1,
+          "base_stats": {
+            "Health Restored": 30,
+            "Channel Duration": 5,
+            "Friendly Heal Radius": 8
+          },
+          "tiers": {
+            "T1": "Gain +4m/s movespeed bonus for 8s if Aurora is fully channeled. Gain instantly with 5AP Upgrade",
+            "T2": "-14s Cooldown",
+            "T3": "Full move and ability use and additionally heals +3% of Max Health per second"
+          }
+        },
+        {
+          "name": "Singularity",
+          "description": "Description of Ability 4",
+          "Cooldown": 215,
+          "Range": 7,
+          "Charges": -1,
+          "base_stats": {
+            "Channel Duration": 2.75,
+            "DPS": 45,
+            "Damage Health Percent": 1.5,
+            "Singularity Radius": 7
+          },
+          "tiers": {
+            "T1": "+2m Singularity Radius",
+            "T2": "+0.75s Channel Duration",
+            "T3": "Singularity takes 4% of the enemies max health each second"
+          }
+        }
+      ]
+    },
+    "Haze": {
+      "Weapon": {
+        "DPS": 50,
+        "Bullet Damage": 5.04,
+        "Ammo": 25,
+        "Bullets per sec": 10,
+        "Light Melee": 63,
+        "Heavy Melee": 116
+      },
+      "Vitality": {
+        "Max Health": 500,
+        "Health Regen": 2,
+        "Bullet Resist": 0,
+        "Spirit Resist": 0,
+        "Move Speed": 8.3,
+        "Sprint Speed": 0.5,
+        "Stamina": 3
+      },
+      "Abilities": [
+        {
+          "name": "Sleep Dagger",
+          "description": "Description of Ability 1",
+          "Cooldown": 26,
+          "Range": -1,
+          "Charges": -1,
+          "base_stats": {
+            "Status Effect": "Sleep",
+            "Damage": 70,
+            "Wake Up Time": 0.1,
+            "Min Sleep Time": 0.2,
+            "Sleep Duration": 3,
+            "Sleep Movespeed": 2
+          },
+          "tiers": {
+            "T1": "Removes 1 stamina",
+            "T2": "-12s Cooldown",
+            "T3": "Applies -12% Bullet Resist and 40% Fire Rate Slow for 6s on wake-up"
+          }
+        },
+        {
+          "name": "Smoke Bomb",
+          "description": "Description of Ability 2",
+          "Cooldown": 30,
+          "Range": -1,
+          "Charges": 0,
+          "base_stats": {
+            "Status Effect": "Invisible",
+            "Fade Time": 1.5,
+            "Spot Radius": 18,
+            "Invis Sprint Speed": 2
+          },
+          "tiers": {
+            "T1": "+5m/s Invis Sprint Speed",
+            "T2": "After invis, gain +15% Bullet Lifesteal for 8s",
+            "T3": "Enable Ability Charges and Phase out of the world for +0.5s"
+          }
+        },
+        {
+          "name": "Fixation",
+          "description": "Description of Ability 3",
+          "Cooldown": -1,
+          "Range": -1,
+          "Charges": -1,
+          "base_stats": {
+            "Weapon Damage": 0.2,
+            "Max Stacks": 40
+          },
+          "tiers": {
+            "T1": "60 Spirit damage and 15% slow for 2s to target every 20 stacks",
+            "T2": "+40 Max Stacks and +5s Duration",
+            "T3": "+0.12 per stack Weapon Damage"
+          }
+        },
+        {
+          "name": "Ability 4",
+          "description": "Description of Ability 4",
+          "Cooldown": 150,
+          "Range": 15,
+          "Charges": -1,
+          "base_stats": {
+            "Weapon Damage": 0.2,
+            "Max Stacks": 40
+          },
+          "tiers": {
+            "T1": "Tier 1 description for Ability 4.",
+            "T2": "Tier 2 description for Ability 4.",
+            "T3": "Tier 3 description for Ability 4."
+          }
+        }
+      ]
+    }
+  }
+}
