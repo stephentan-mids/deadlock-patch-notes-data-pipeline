@@ -1,0 +1,11 @@
+{
+    "poster": "Yoshi",
+    "date": "2024-08-22",
+    "time": "6:55 PM",
+    "content": "- Fixed High-Velocity Mag affecting some abilities\n- Silence Glyph: Damage reduced from 150 to 100\n- Silence Glyph: Spirit damage scaling reduced from 1.5 to 1.0\n- Silence Glyph: Cast range reduced from 40m to 25m\n- Silence Glyph: Sprint reduced from 2 to 1\n- Silence Glyph: Spirit Shield reduced from +225 to +200\n- Reactive Barrier: Cooldown increased from 20s to 30s\n- Return Fire: Bullet damage returned reduced form 80% to 70%\n- Dying with Siphon Bullets stacks will now cause you to lose 2 stacks no matter who killed you (rather than returning 1 only if the victim killed you back)\n- Fixed Siphon Bullets acting as spirit damage for procs\n- Ivy: Air Drop now silences the ally being carried until they are released\n- Shiv: Bloodletting incoming damage deferred reduced from 40% to 35%\n- Fixed shotgun heroes applying buildup effects like toxic bullets instantly on ricocheted enemies\n- Parrying a Guardian now causes it to stop trying to repeatedly melee (and get parried over and over), and instead causes the boss to start shooting shortly there after",
+    "hero_patch_notes": [
+        "- Ivy: Air Drop now silences the ally being carried until they are released",
+        "- Shiv: Bloodletting incoming damage deferred reduced from 40% to 35%"
+    ],
+    "flagged_entries": []
+}

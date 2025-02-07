@@ -4,8 +4,7 @@
     "time": "12:45 PM",
     "content": "- Shadow Weave: Ambush Fire Rate reduced from +40% to +30%\n- Wraith: Card Trick Spirit scaling reduced from 1.5 to 1.2\n- Fixed various cases where you could target/select units behind walls with abilities (like Yamato's Flying Strike)",
     "hero_patch_notes": [
-        "- Wraith: Card Trick Spirit scaling reduced from 1.5 to 1.2",
-        "- Fixed various cases where you could target/select units behind walls with abilities (like Yamato's Flying Strike)"
+        "- Wraith: Card Trick Spirit scaling reduced from 1.5 to 1.2"
     ],
     "flagged_entries": [
         "- Fixed various cases where you could target/select units behind walls with abilities (like Yamato's Flying Strike)"

@@ -6,10 +6,6 @@
     "hero_patch_notes": [
         "- Pocket Affliction visual and sound effects reworked",
         "- Pocket Enchanter\u2019s Satchel visual effects updated",
-        "- Fixed a bug where Pocket\u2019s briefcase would stop animating when the duration upgrade was taken",
-        "- Updated Dynamo VO for Quantum Entanglement and a few other missing lines",
-        "- Fixed Ice Dome effects disappearing while still active if Kelvin dies during it",
-        "- Simplify some visuals with Seven\u2019s Storm Cloud radius indicator to help clarify the bounds",
         "- Abrams: Reduced chances that Leap gets stuck on geometry during the downward phase",
         "- Bebop: No longer has an innate +15% Spirit Resist",
         "- Bebop: Now has innate +20% Bullet Resist",
